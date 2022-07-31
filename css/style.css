@@ -84,12 +84,11 @@ input[type=text], select, textarea {
         border-radius: 25px;
         padding: 30px;
         width: 500px;
-        margin-top: 800px;
-        margin-left: -3000px;
-        margin-right: -50px;
+        margin-top: 200px;
+        margin-left: auto;
+        margin-right: auto;
+        margin-bottom: auto;
       }
-
-
 .rounded-corners1 {
     background-color: #d9d9d9;
     width: 25%;
