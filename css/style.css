@@ -154,13 +154,8 @@ input[type=text], select, textarea {
     border-radius: 80px;
     text-align: center;
     margin-top: 50px;
-<<<<<<< HEAD
     margin-bottom: -480px;
     margin-left: -100px;
-=======
-    margin-bottom: -500px;
-    margin-left: -70px;
->>>>>>> 038634785e4e7f7eda9cabfc9b2badb65e4c2105
     margin-right: 100px;
   }
   
