@@ -130,7 +130,7 @@ input[type=text], select, textarea {
     border-radius: 80px;
     text-align: center;
     margin-top: 50px;
-    margin-bottom: -480px;
+    margin-bottom: -500px;
     margin-left: -1300px;
     margin-right: 100px;
   }
@@ -142,7 +142,7 @@ input[type=text], select, textarea {
     border-radius: 80px;
     text-align: center;
     margin-top: 50px;
-    margin-bottom: -480px;
+    margin-bottom: -500px;
     margin-left: -70px;
     margin-right: 100px;
   }
@@ -154,7 +154,7 @@ input[type=text], select, textarea {
     border-radius: 80px;
     text-align: center;
     margin-top: 50px;
-    margin-bottom: -480px;
+    margin-bottom: -500px;
     margin-left: -70px;
     margin-right: 100px;
   }
@@ -276,7 +276,7 @@ display: block;
   color: rgb(157, 223, 37);
 }
 
-@media (max-width:500px) {
+@media (max-width:500px) 
 .footer-menu ul{
   display: flex;
   margin-top: 10px;
