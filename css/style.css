@@ -86,7 +86,7 @@ input[type=text], select, textarea {
         width: 500px;
         margin-top: 200px;
         margin-left: auto;
-        margin-right: auto;
+        margin-right: 100px;
         margin-bottom: auto;
       }
 .rounded-corners1 {
@@ -158,6 +158,17 @@ input[type=text], select, textarea {
     margin-right: 100px;
   }
   
+  .roundedcontact {
+    background-color: #d9d9d9;
+    width:59%;
+    height: 600px;
+    border-radius: 30px;
+    text-align: center;
+    margin-top: -600px;
+    margin-bottom: auto;
+    margin-left: 50px;
+    margin-right: 100px;
+  }
 
 .aboutus{
     color: black;
