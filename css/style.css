@@ -17,16 +17,6 @@
     z-index: -1;
 }
 
-.bgtutors {
-    background-size: 100;
-    height: 716px;
-    width: 1728px;
-    position: absolute;
-    top: 180px;
-    left: 0px;
-}
-
-
 .navbar{
     display:flex;
     justify-content: space-between;
@@ -132,6 +122,42 @@ input[type=text], select, textarea {
     margin-bottom: 10;
     margin-left: 1200px;
   }
+  .rounded-corners4 {
+    background-color: #d9d9d9;
+    width: 25%;
+    height: 291px;
+    border-radius: 80px;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: -480px;
+    margin-left: -1300px;
+    margin-right: 100px;
+  }
+
+  .rounded-corners5 {
+    background-color: #d9d9d9;
+    width: 25%;
+    height: 291px;
+    border-radius: 80px;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: -480px;
+    margin-left: -70px;
+    margin-right: 100px;
+  }
+
+  .rounded-corners6 {
+    background-color: #d9d9d9;
+    width: 25%;
+    height: 291px;
+    border-radius: 80px;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: -480px;
+    margin-left: -70px;
+    margin-right: 100px;
+  }
+  
 
 .aboutus{
     color: black;
