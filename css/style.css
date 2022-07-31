@@ -173,14 +173,14 @@ input[type=text], select, textarea {
 
 footer{
     position: absolute;
-    bottom: 0;
+    bottom: 0px;
     left: 0;
     right: 0;
     background: #747373;
     height: 188px;
     width: 100vw;
 
-    padding-top: 40px;
+    padding-top: 5px;
     color: #fff;
 }
 .footer-content{
@@ -238,7 +238,7 @@ footer{
     background: rgb(34, 33, 33);
     width: 100vw;
     padding: 20px;
-padding-bottom: 40px;
+padding-bottom: 20px;
     text-align: center;
 }
 .footer-bottom p{
